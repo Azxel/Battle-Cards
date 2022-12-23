@@ -1,0 +1,1 @@
+Soldier Demonio_Blanco 1 2 1 None 0 Attack 10 

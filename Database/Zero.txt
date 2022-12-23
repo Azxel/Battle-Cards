@@ -1,0 +1,1 @@
+Soldier Especimen_X 5 3 5 Have_Played_Cards 5 Attack 7 

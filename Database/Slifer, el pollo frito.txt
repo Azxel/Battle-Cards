@@ -1,0 +1,1 @@
+Soldier Slifer,_el_pollo_frito 10 20 10 Have_Played_Cards 5 Defense 10 

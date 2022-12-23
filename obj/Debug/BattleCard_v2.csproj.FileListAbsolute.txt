@@ -1,0 +1,13 @@
+c:\users\zkorpion\documents\visual studio 2015\Projects\BattleCard_v2\BattleCard_v2\bin\Debug\BattleCard_v2.exe.config
+C:\! Info\! Progress\BattleCard_v2\BattleCard_v2\bin\Debug\BattleCard_v2.exe.config
+C:\! Info\! Progress\BattleCard_v2\BattleCard_v2\bin\Debug\BattleCard_v2.exe
+C:\! Info\! Progress\BattleCard_v2\BattleCard_v2\bin\Debug\BattleCard_v2.pdb
+C:\! Info\! Progress\BattleCard_v2\BattleCard_v2\obj\Debug\BattleCard_v2.csprojResolveAssemblyReference.cache
+C:\! Info\! Progress\BattleCard_v2\BattleCard_v2\obj\Debug\BattleCard_v2.exe
+C:\! Info\! Progress\BattleCard_v2\BattleCard_v2\obj\Debug\BattleCard_v2.pdb
+C:\! Info\Programming\^ Projects\(realizado) - Battle Cards\Project\BattleCard\BattleCard_v2\bin\Debug\BattleCard_v2.exe.config
+C:\! Info\Programming\^ Projects\(realizado) - Battle Cards\Project\BattleCard\BattleCard_v2\obj\Debug\BattleCard_v2.exe
+C:\! Info\Programming\^ Projects\(realizado) - Battle Cards\Project\BattleCard\BattleCard_v2\obj\Debug\BattleCard_v2.pdb
+C:\! Info\Programming\^ Projects\(realizado) - Battle Cards\Project\BattleCard\BattleCard_v2\bin\Debug\BattleCard_v2.exe
+C:\! Info\Programming\^ Projects\(realizado) - Battle Cards\Project\BattleCard\BattleCard_v2\bin\Debug\BattleCard_v2.pdb
+C:\! Info\Programming\^ Projects\(realizado) - Battle Cards\Project\BattleCard\BattleCard_v2\obj\Debug\BattleCard_v2.csprojResolveAssemblyReference.cache

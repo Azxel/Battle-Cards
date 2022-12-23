@@ -1,0 +1,1 @@
+Struct casa 5 99 Have_Attacked_Cards 56 Attack 34 

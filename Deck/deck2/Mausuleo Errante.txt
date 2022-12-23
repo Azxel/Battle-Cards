@@ -1,0 +1,1 @@
+Struct Mausuleo_Errante 1 20 Have_Summoned_Cards 10 Attack 1 
